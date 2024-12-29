@@ -1,0 +1,1 @@
+# Serilog_Implementation_NetCore
